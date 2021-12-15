@@ -1,0 +1,98 @@
+Folder PATH listing
+Volume serial number is 5669-6259
+C:.
+³   admin.php
+³   demo.php
+³   index.php
+³   jj.php
+³   tree.txt
+³   
+ÃÄÄÄassets
+³   ³   calendar.svg
+³   ³   document.svg
+³   ³   favicon.png
+³   ³   notification.svg
+³   ³   
+³   ÃÄÄÄbloodbank
+³   ³       blood.png
+³   ³       blood1.png
+³   ³       hur.jpg
+³   ³       little.jpg
+³   ³       onetime.jpeg
+³   ³       savelife.jpg
+³   ³       
+³   ÃÄÄÄdownloads
+³   ³       Doc_1602825507592.pdf
+³   ³       
+³   ÀÄÄÄgallery
+³           Untitled design.png
+³           WhatsApp Image 2020-12-10 at 1.39.22 PM.jpeg
+³           
+ÃÄÄÄbackend
+³       add_dept.php
+³       add_donor.php
+³       add_events.php
+³       add_notification.php
+³       add_po.php
+³       attendence_by_event.php
+³       dbconnect.php
+³       delete_dept.php
+³       delete_event.php
+³       delete_row.php
+³       enrollment_controller.php
+³       get_dept.php
+³       handle_absent.php
+³       handle_leave.php
+³       is_user_exist.php
+³       leave_req.php
+³       login.php
+³       logout.php
+³       nil.php
+³       request_blood.php
+³       satisfy_req.php
+³       set_enroll.php
+³       set_po.php
+³       set_special.php
+³       set_status.php
+³       status.php
+³       update_academic.php
+³       update_donor_contact.php
+³       update_last_donate.php
+³       update_user.php
+³       upload_doc.php
+³       upload_gallery.php
+³       utilities.php
+³       verify_blood_req.php
+³       
+ÃÄÄÄcss
+³       bloodbank_landing_page.css
+³       bootstrap-grid.min.css
+³       bootstrap.min.css
+³       style.css
+³       
+ÃÄÄÄjs
+³       admin_ajax.js
+³       bootstrap.min.js
+³       delete_data.js
+³       jquery.autoscroll.js
+³       
+ÀÄÄÄroutes
+    ³   about.php
+    ³   adminboard.php
+    ³   attendence.php
+    ³   downloads.php
+    ³   enrollment.php
+    ³   gallery.php
+    ³   registrationstatus.php
+    ³   set_enrollment.php
+    ³   signin.html
+    ³   userboard.php
+    ³   volunteerregister.php
+    ³   
+    ÀÄÄÄbloodbank
+            adminboard.php
+            bloodbank.php
+            bloodboard.php
+            donorform.php
+            sign_in.php
+            
